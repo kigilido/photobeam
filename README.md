@@ -33,7 +33,7 @@ into whichever folder you picked on your computer.
   [issue](../../issues) — please include your iPhone model, your iOS
   version, your computer's operating system, and roughly when the problem
   happened.
-- **Email:** `you@example.com`
+- **Email:** `shulemfreund360@gmail.com`
 
 We typically reply within a couple of days.
 
